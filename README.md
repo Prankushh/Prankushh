@@ -9,9 +9,9 @@
 
 - 👨‍💻 My Portfolio [https://prankushh.github.io/](https://prankushh.github.io/)
 
-- 💬 Ask me about **Linux, OS, SQL, Networking, HTML, CSS, JS,.**
+- 💬 Ask me about :- **Linux, OS, SQL, Networking, HTML, CSS, JS**
 
-- 📫 Email ID **prankushrana2296@gmail.com**
+- 📫 Email ID :- **prankushrana2296@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
